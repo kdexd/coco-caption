@@ -18,5 +18,3 @@ mv $SPICELIB/$CORENLP/stanford-corenlp-3.6.0.jar $SPICELIB/
 mv $SPICELIB/$CORENLP/stanford-corenlp-3.6.0-models.jar $SPICELIB/
 rm -f stanford-corenlp-full-2015-12-09.zip
 rm -rf $SPICELIB/$CORENLP/
-
-echo "Done."
