@@ -1,1 +1,6 @@
 *.pyc
+cache/
+tmp/
+.vscode/
+.mypy_cache/
+stanford-corenlp*
